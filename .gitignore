@@ -1,3 +1,7 @@
+# Other Clients (CodeSandbox, CodeSpaces, etc.)
+.devcontainer/**
+.codesandbox/**
+
 # Prerequisites
 *.d
 
